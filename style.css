@@ -6,6 +6,7 @@
 .con h1 {
   font-family: "Roboto", sans-serif;
   font-size: 10vmax;
+  color: brown;
 }
 section {
   height: 100vh;
